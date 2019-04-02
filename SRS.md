@@ -1,14 +1,28 @@
+# Inventory of movies
 # Introduction
 
 ## 1.1 Purpose 
+           --The company(name of the company) of inventory of movies will realize a inventory of movies with the purpose of save  the records of input and output of movies, in the inventory of movies the program records to the users with information personal
+           and the users will have acces to the movies to choose, the users will have a limit to get movies 
+           just the users can use the program in a computer for that they 
+
 --Describes the purpose of the SRS 
 -- Specifies the intended audience for the SRS
-## 1.2 Scope
---Identify the software products to be produced by name
---Explain what the software products, will and will not do
---Describes the application of the software being specified, includes benefits, objectives and goals
+## 1.2 Scope 
+ movie list is basically a program that realize the operating of records of input and output of movies, the users could 
+ choose between movies of different categoies like terror, science-action, adventure, animation, biography, etc.
+ the project, the program is specifically designed for the users to implement the records 
+ it will be implement in a computer onlinely and just the person should add a special card 
+ 
+
+
+--Identify the software products to be produced by name 
+--Explain what the software products, will and will not do 
+--Describes the application of the software being specified, includes benefits, objectives and goals 
 ## 1.3 Definitions, Acronyms, and abbreviations
-Provides the definitions of all terms, acronyms, and abbreviations required properly to interpret the SRS
+
+
+--Provides the definitions of all terms, acronyms, and abbreviations required properly to interpret the SRS
 ## 1.4 References
 --Identifies each document by title, repor number, date, and publishing organizations
 --Specify the sources from which the references can be obtained
