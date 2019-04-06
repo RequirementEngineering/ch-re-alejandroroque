@@ -4,33 +4,29 @@
 ## 1.1 Purpose 
 The company(name of the company) of inventory of movies need a program where will be records the movements of the company
 it will realize a inventory of movies with the purpose of save the records of input and output of movies, in the inventory of movies, 
-this is a list for the purposes of inventory of movies:
-the program records to the users with information personal basic for keep a control of the operations basics. 
-the customers can create a email account in the page official of the company else the customers can get a account synchronizing their 
-principal email account 
-
-and the users will have acces to the movies to choose, the users will have a limit to get movies just the users can use the program in a computer for that they 
+there will be a lot of functions for different types of use. 
 
 --Describes the purpose of the SRS 
 -- Specifies the intended audience for the SRS
 ## 1.2 Scope 
  movie list is basically a program that realize the operating of records of input and output of movies, the users could 
- choose between movies of different categoies like terror, science-action, adventure, animation, biography, etc.
- the project, the program is specifically designed for the users to implement the records 
- it will be implement in a computer onlinely and just the person should add a special card 
- 
-
+ choose between movies of different categoies like terror, science-action, adventure, animation, biography,education etc.
+ the project or the program is specifically designed for the employees and users 
+ the users will have a email account where they can see the movies that are available and can set aside a movie for just arrive and take it
+the employees of place will work with the system for keep the records of the company.
 
 --Identify the software products to be produced by name 
 --Explain what the software products, will and will not do 
 --Describes the application of the software being specified, includes benefits, objectives and goals 
 ## 1.3 Definitions, Acronyms, and abbreviations
-customers:
-programmer:
-collaborators:
+customers: a person or organization that buys goods or services from a store or business.
+programmer: a person who writes computer programs.
+collaborators: a person who works jointly on an activity or project; an associate.
+employees: a person employed for wages or salary, especially at nonexecutive level.
 
 --Provides the definitions of all terms, acronyms, and abbreviations required properly to interpret the SRS
 ## 1.4 References
+
 --Identifies each document by title, repor number, date, and publishing organizations
 --Specify the sources from which the references can be obtained
 ## 1.5 Overview
@@ -38,7 +34,12 @@ collaborators:
 --Explains how the SRS is organized
 
 # overall Description
+In this part the lector will have a overview. in this section it will explain about the conexion of system(program), users and employees
+
 ## 2.1 Product perpecive 
+
+
+
 his subsection of hte SRS should put the product into perspective with other related products. If the product is independent and totally self-contained, it should be so stated here. If the SRS defines a product that is a component of a larger system, as frequently occurs, then this subsection should relate the requirements of that larger system to functionality of the software and should indentify interfaces between that system and the software.
 
 This subsection should also describe how the software operates insides various constraints. For example, these constraints could include.
