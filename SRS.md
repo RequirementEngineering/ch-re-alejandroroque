@@ -2,9 +2,14 @@
 # Introduction
 
 ## 1.1 Purpose 
-           --The company(name of the company) of inventory of movies will realize a inventory of movies with the purpose of save  the records of input and output of movies, in the inventory of movies the program records to the users with information personal
-           and the users will have acces to the movies to choose, the users will have a limit to get movies 
-           just the users can use the program in a computer for that they 
+The company(name of the company) of inventory of movies need a program where will be records the movements of the company
+it will realize a inventory of movies with the purpose of save the records of input and output of movies, in the inventory of movies, 
+this is a list for the purposes of inventory of movies:
+the program records to the users with information personal basic for keep a control of the operations basics. 
+the customers can create a email account in the page official of the company else the customers can get a account synchronizing their 
+principal email account 
+
+and the users will have acces to the movies to choose, the users will have a limit to get movies just the users can use the program in a computer for that they 
 
 --Describes the purpose of the SRS 
 -- Specifies the intended audience for the SRS
@@ -20,7 +25,9 @@
 --Explain what the software products, will and will not do 
 --Describes the application of the software being specified, includes benefits, objectives and goals 
 ## 1.3 Definitions, Acronyms, and abbreviations
-
+customers:
+programmer:
+collaborators:
 
 --Provides the definitions of all terms, acronyms, and abbreviations required properly to interpret the SRS
 ## 1.4 References
@@ -38,6 +45,8 @@ This subsection should also describe how the software operates insides various c
 ## 2.1.1 System Interfaces 
 This should list each system interface and identify the functionality of the software to accomplish the system requirement and the interface description to match the system.
 ## 2.1.2 User Interfaces 
+
+
 This should specify the logical characteristics of each interface between the software product and its users.
 All the aspects of optimizing the interface with the person who must use the system.
 ## 2.1.3 Hardware Interfaces 
