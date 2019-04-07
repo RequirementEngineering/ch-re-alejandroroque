@@ -26,10 +26,16 @@ employees: a person employed for wages or salary, especially at nonexecutive lev
 
 --Provides the definitions of all terms, acronyms, and abbreviations required properly to interpret the SRS
 ## 1.4 References
+IEEE SRS Format.
 
 --Identifies each document by title, repor number, date, and publishing organizations
 --Specify the sources from which the references can be obtained
 ## 1.5 Overview
+the main gaol of this project(system) is to help to keep a order in the products of the company.
+this tool is quite useful for this situation since it will maintain a control.
+in this case, the system must have a control of input and output of movies using a account to
+see the latest news of the place.
+
 --Describes what the rest of the SRS contains
 --Explains how the SRS is organized
 
