@@ -1,4 +1,5 @@
 # Inventory of movies
+# Software requirements specification
 # Introduction
 
 ## 1.1 Purpose 
@@ -31,7 +32,7 @@ see the latest news of the place.
 # overall Description
 In this part the lector will have a overview. in this section it will explain about the conexion of system(program), users and employees
 
-## 2.1 Product perpecive 
+## 2.1 Product perspecive 
 the final product of the system consists in a program or application for modification and data management in where the system will has a conexion constant with database to keep it in a real time during the use and thus show the process of the changes so that others users can use it. 
 The software system will work with SQL dtabase, communication in a red for submit te datos and registers 
 the software system will be easy to use it , the system will be coded in c++ and java with connection a database
@@ -58,7 +59,7 @@ users: it can to access to the platform if the user wants a movie aside since th
 employees: they can use the system for saved the information and to stock the behaivors that passed during the time of work 
 
 ## 2.1.5 Communication interfaces 
-SQL database 
+SQL database and connexion to red 
 
 ## 2.1.6 Memory 
 122MB in RAM
@@ -93,7 +94,7 @@ help if someone needs it.
 
 ## 2.3 User characteristics 
 In this part they are taking different types of actors which the customers and will take
-the charactetistics are :
+charactetistics of the customers are :
 it has the knowledges necessary for 
 it has a method of page 
 in the moment of registration, give information true the employee
@@ -123,7 +124,20 @@ that the program can registers the data of the customers for can to get the serv
 that in the moment that the customers to get a movie will be registered, who ask the movie, when and how many movies to got 
 and the employees take the datos for the operation 
 
-# Appendixes
+#Functional requirements
+FR1: CRUD for Administrator:
+the administrator can change,read,update and/or delete the products of the system 
+the changes that are necessary to realized
+FR2: place of help
+the  customers can to access either in the plataform to get information or help in case of questions or in the place or establishement to get information
+FR3: Search the product
+the customer can search a product define it by its categories
+FR4: information about the process of place(notifications)
+the employees and the administrator will recive notifications about the input and output of the movies
+FR5: check the products
+the employees must organized the products sinces physically and in the system 
+FR6: upgrade of system and plataform
+the employees or administrator must upgrade the plataform and system for give the news about the movies
 
-# Index
+
 
