@@ -125,19 +125,24 @@ that in the moment that the customers to get a movie will be registered, who ask
 and the employees take the datos for the operation 
 
 #Functional requirements
-FR1: CRUD for Administrator:
+##FR1: CRUD for Administrator:
 the administrator can change,read,update and/or delete the products of the system 
 the changes that are necessary to realized
-FR2: place of help
+##FR2: place of help
 the  customers can to access either in the plataform to get information or help in case of questions or in the place or establishement to get information
-FR3: Search the product
+##FR3: Search the product
 the customer can search a product define it by its categories
-FR4: information about the process of place(notifications)
+##FR4: information about the process of place(notifications)
 the employees and the administrator will recive notifications about the input and output of the movies
-FR5: check the products
+##FR5: check the products
 the employees must organized the products sinces physically and in the system 
-FR6: upgrade of system and plataform
+##FR6: upgrade of system and plataform
 the employees or administrator must upgrade the plataform and system for give the news about the movies
+##FR7: movies records
+employees must registers the input and output of movies 
+##FR8: Implementation of database
+the programmer must implement the work with a database for keep an oder in the system and thus saved the process of place
+
 
 
 
