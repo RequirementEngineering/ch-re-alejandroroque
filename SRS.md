@@ -43,6 +43,7 @@ the sysyem will tell with a scanner for the product that are go out of place in 
 
 This should list each system interface and identify the functionality of the software to accomplish the system requirement and the interface description to match the system.
 
+
 ## 2.1.2 User Interfaces 
 here there are 2 types of the user interfaces
 employees: the implementation is about the almost complete use of the system, since the employees working for the registration of input and output of movies, help to customers to get information about the movies (if the movies are available or not) and 
@@ -91,6 +92,9 @@ help if someone needs it.
 |**Use cases related to system database**|Login to the system database| Login into of the system during the time of working |
 ||records about movies| save the movies that are coming out and save the registers that are coming back |
 ||take dates about the movies| take all the datos of the movies, name, cost, categories,available, quantity and registes |
+
+
+this section outlines the case use for the actor, the customer is the main actor in this stage,the actor needs select a movie which he can get between 1 to 5 movies by day, in this managements system, the customer will have the available election of the different categories that there are of movies
 
 ## 2.3 User characteristics 
 In this part they are taking different types of actors which the customers and will take
